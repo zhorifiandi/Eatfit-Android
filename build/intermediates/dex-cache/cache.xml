@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/f815974ebaeee2f5052a1110d607a82ac0fd913e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_a62a8578a1a8902d4d7b7f72ed12961b64da48ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/377abf3e1b46b400a3f1f4ffb1297503eb741f2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_1f471ea01253a1f9e39cabcf4d7fb2d0718d3221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/bee7801facf648a18ed09a47ec8990d8b6df9394/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_ec65e0f4240a6f315b36d45e4107575ec91f2ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/32a0ee5ae0f6d5cc72d26d1c786c4f9e7d60c2b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_3020ade24f03ca59457001c6f3a39560f0142c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/gson-2.8.0_49b8d296152e2d4153f0fe943f022cb75bdbbd65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/16948b1f942017215e010006f57340b4031cc3ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_a47dca2393d125761871bdbfd11348dfde44a27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/b995e0f5cb6dc31607c5af769a99b60166c835da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_6b433297594fb1a46298c21f2df7a8ef45e129d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/8569c7ac056648722588ce0bf39dad5de55c6a47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_c68366e6e5dc80baacca34ba0ce0b926b27d886d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/b96518e547ba40a2d6d7474dbd8d6f17fda641ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_cea27d392d3144ef69a1c5faa256eb0d83194b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/992e716b5e507395ea8d82794a73771a23ae7536/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_19ce5b7b09894fa534fc01c5eabcc84c543a07d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/9256d8f0f8611acd81a08d8ee8b8c1d37617819b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_49d613415749445833ca5ea40ba53e39cdd59195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/369f9aa48a629b4e92557b37326f42dc3de796e4/MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.1_5d1b6ae0ddf8237f95750a2a176bc6a7a4d1d45d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/d4cf6addd71358858185f030286350ac7253783a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_b1ec49b4e897bd1b52e48b417d3722af5cedfde1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/1fe75d9365c637f947655f0ede9beaeda7161017/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_16b3d97074f065a19857ca5dea1070447244b3bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_80d8aed437bcf01be0cf43d271eee96743f2840e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/glide-3.7.0_606cf30c2be96733f28a552a4596f8a92a2b8274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_c9d3e344061938a9a9d16f5763eed5a8d558b055.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.android/build-cache/8f5ae56154ca99c5e6770db1db510ebd9ccc74cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/classes_f1288380b47cef97ade6129dd60f5e680b54cd91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhorifiandi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/zhorifiandi/Downloads/Custom-Vison-Service-master/FoodClassification/AndroidAPP/app/build/intermediates/pre-dexed/debug/okio-1.11.0_03f06b2b8b0b93e82cae4d9744380200fd685eed.jar" />
+    </item>
+
+</items>
